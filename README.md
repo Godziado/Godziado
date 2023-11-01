@@ -1,10 +1,10 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D2SIADO&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerilogy&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D2SIADO&theme=tokyonight&langs_count=8)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/786619260390342708)](https://discord.com/users/786619260390342708)
 
-## 📜 Godziado Porfile
+## 📜 Zerilogy Porfile
 
 - Learning Java, Mini Developer
 - Working on None
